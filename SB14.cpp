@@ -7,9 +7,7 @@
 int main()
 {
     std::string name("Vorfolomey");
-    std::string Symv1("");
-    std::string SymvLast("");
-
+    
     std::cout << "String: " << name << "\n";
     std::cout << "Count Symbols: " << name.length() << "\n";
 
